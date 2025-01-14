@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bignate8735
-- 👀 i enjoy uncovering insights from data, building predictive models, and driving data-driven decisions. 
-- 💞️ I’m looking to collaborate on data and machine learning projects
+- 👀 I enjoy uncovering insights from data, building predictive models, and driving data-driven decisions. 
+- 💞️ I’m looking to collaborate on data engineering and machine learning projects
 - 📫 How to reach me nthnlsck@gmail.com
 - 😄 Pronouns: He
 -
